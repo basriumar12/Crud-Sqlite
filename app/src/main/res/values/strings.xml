@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crud SQLITE</string>
+    <string name="action_settings">Settings</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="date">date</string>
+    <string name="title">title</string>
+    <string name="description">desk</string>
+</resources>
